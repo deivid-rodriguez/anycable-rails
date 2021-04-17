@@ -29,7 +29,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "actioncable", ">= 6"
   spec.add_dependency "globalid"
 
-  spec.add_development_dependency "activerecord"
   spec.add_development_dependency "ammeter", "~> 1.1"
   spec.add_development_dependency "bundler", ">= 1.10"
   spec.add_development_dependency "rake", "~> 13.0"
